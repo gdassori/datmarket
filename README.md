@@ -1,3 +1,6 @@
+I'll never finish this so, this is now public before it's completed. This is the old readme with roadmap:
+
+
 DAT MARKET backend -
 ------------------
 
